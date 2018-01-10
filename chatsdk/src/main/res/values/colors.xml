@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="chatBackgroundMessage">#FAFAFA</color>
+    <color name="chatSentMessage">#4CAF50</color>
+    <color name="chatReceiveMessage">#EAEAEA</color>
+    <color name="chatTextBlack">#4B4F56</color>
+    <color name="chatTextWhite">#FFFFFF</color>
+</resources>
