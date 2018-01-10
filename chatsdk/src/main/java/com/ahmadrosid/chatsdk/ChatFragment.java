@@ -26,7 +26,6 @@ public class ChatFragment extends Fragment {
     private String uid;
 
     public static ChatFragment newInstance(String chanelId, String uid) {
-
         Bundle args = new Bundle();
         args.putString("chanelId", chanelId);
         args.putString("uid", uid);
